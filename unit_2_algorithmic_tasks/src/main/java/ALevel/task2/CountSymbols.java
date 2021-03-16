@@ -1,4 +1,4 @@
-package ALevel.Task_2;
+package ALevel.task2;
 
 import org.apache.commons.lang3.ArrayUtils;
 
@@ -9,7 +9,7 @@ import java.util.TreeMap;
  * Calculate numbers of each letter from random string
  */
 
-public class App2 {
+public class CountSymbols {
     public static void main(String[] args) {
 
         System.out.println(symbolsMy(args[0]));

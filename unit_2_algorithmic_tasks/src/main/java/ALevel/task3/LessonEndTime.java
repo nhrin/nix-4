@@ -1,9 +1,9 @@
-package ALevel.Task_3;
+package ALevel.task3;
 
 /**
  * About school
  */
-public class App3 {
+public class LessonEndTime {
 
     private static int lessonTime = 55; //time of lesson + average break time
 

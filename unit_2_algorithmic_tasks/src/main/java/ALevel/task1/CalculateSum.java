@@ -1,4 +1,4 @@
-package ALevel.Task_1;
+package ALevel.task1;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Calculate sum of numbers from random string
  */
 
-public class App1 {
+public class CalculateSum {
 
     public static void main(String[] args) {
 
