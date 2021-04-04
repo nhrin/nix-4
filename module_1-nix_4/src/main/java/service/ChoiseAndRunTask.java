@@ -9,6 +9,9 @@ public class ChoiseAndRunTask {
 
 
 
+
+
+
     static Scanner scanner = new Scanner(System.in);
     public static void choicer() {
         System.out.println("Please, choose the level (you may enter 1, 2 or 3)");

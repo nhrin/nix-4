@@ -1,0 +1,163 @@
+2021-04-04 04:05:06 INFO  DBWithCollections:42 - Author created
+2021-04-04 04:17:26 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:20:01 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:22:08 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:22:08 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:22:08 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:22:08 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:22:08 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:22:08 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:23:21 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:23:21 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:23:21 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:23:21 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:23:21 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:23:21 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:25:12 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:25:12 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:25:12 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:25:12 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:25:12 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:25:12 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:25:12 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:25:12 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:29:39 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:29:39 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:29:39 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:29:39 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:29:39 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:29:39 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:29:39 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:29:39 INFO  DBWithCollections:78 - Author deleted
+2021-04-04 04:29:39 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:29:39 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:29:39 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:29:39 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:29:39 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:29:39 INFO  DBWithCollections:82 - Book deleted
+2021-04-04 04:29:39 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:29:39 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:30:10 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:30:10 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:30:10 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:30:10 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:30:10 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:30:10 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:30:10 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:30:10 INFO  DBWithCollections:78 - Author deleted
+2021-04-04 04:30:10 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:30:10 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:30:10 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:30:10 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:30:10 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:30:10 INFO  DBWithCollections:82 - Book deleted
+2021-04-04 04:30:10 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:30:10 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:31:56 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:31:56 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:31:56 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:31:56 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:31:56 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:31:56 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:31:56 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:31:56 INFO  DBWithCollections:78 - Author deleted
+2021-04-04 04:31:56 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:31:56 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:31:56 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:31:56 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:31:56 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:31:56 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:31:56 INFO  DBWithCollections:82 - Book deleted
+2021-04-04 04:31:56 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:31:56 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:31:56 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:35:03 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:35:03 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:35:03 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:35:03 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:35:03 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:35:03 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:35:03 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:35:03 INFO  DBWithCollections:78 - Author deleted
+2021-04-04 04:35:03 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:35:03 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:35:03 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:35:03 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:35:03 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:35:03 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:35:03 INFO  DBWithCollections:82 - Book deleted
+2021-04-04 04:35:03 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:35:03 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:35:03 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:36:09 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:36:09 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:36:09 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:36:09 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:36:09 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:36:09 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:37:00 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:37:00 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:37:00 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:37:00 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:37:00 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:37:00 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:37:00 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:37:00 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:37:00 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:37:00 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:37:23 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:37:23 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:37:23 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:37:23 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:37:23 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:37:23 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:37:23 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:37:23 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:37:23 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:37:23 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:37:23 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:37:23 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:37:23 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:37:23 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:38:25 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:38:25 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:38:25 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:38:25 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:38:25 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:38:25 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:38:25 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:38:25 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:38:25 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:38:25 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:38:25 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:38:25 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:38:25 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:38:25 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:39:57 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:39:57 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:39:57 INFO  DBWithCollections:73 - Book updated
+2021-04-04 04:39:57 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:39:57 INFO  DBWithCollections:67 - User updated
+2021-04-04 04:39:57 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:39:57 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:39:57 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:39:57 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:39:57 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:39:57 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:39:57 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:39:57 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:39:57 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:40:24 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:40:24 INFO  DBWithCollections:52 - Read author by id
+2021-04-04 04:40:24 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:40:24 INFO  DBWithCollections:78 - Author deleted
+2021-04-04 04:40:24 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:40:24 INFO  DBWithCollections:45 - Read book by id
+2021-04-04 04:40:24 INFO  DBWithCollections:41 - Author created
+2021-04-04 04:40:24 INFO  DBWithCollections:63 - Read all authors
+2021-04-04 04:40:24 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:40:24 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:40:24 INFO  DBWithCollections:82 - Book deleted
+2021-04-04 04:40:24 INFO  DBWithCollections:34 - Book created
+2021-04-04 04:40:24 INFO  DBWithCollections:59 - Read all books
+2021-04-04 04:40:24 INFO  DBWithCollections:41 - Author created
