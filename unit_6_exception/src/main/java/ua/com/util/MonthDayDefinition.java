@@ -28,7 +28,7 @@ public class MonthDayDefinition {
 
    public static int[] countMonthAndDays(int days, Long year) {
 
-        boolean isLeapYear = year % 4 == 0;
+        boolean isLeapYear = (year + 1) % 4 == 0;
         int[] res = new int[2];
 
         if (isLeapYear) {
@@ -126,7 +126,7 @@ public class MonthDayDefinition {
     public static Long countDays(Long month, Long year) {
         boolean isLeapYear = year % 4 == 0;
 
-        if (isLeapYear) {
+        if (!isLeapYear) {
 
             if (month == 2) {
                 return 86400000L * 31;
