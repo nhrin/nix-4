@@ -7,6 +7,7 @@ import java.util.Locale;
 import java.util.Map;
 
 
+//abstract interface F {}
 
 public class MonthDayDefinition {
     static final Map<Long, String> months = new HashMap<Long, String>() {{
