@@ -193,3 +193,11 @@
 2021-04-15 22:36:10 INFO  DBWithCollections:41 - Author created
 2021-04-15 22:36:27 INFO  DBWithCollections:63 - Read all authors
 2021-04-15 22:36:27 INFO  DBWithCollections:63 - Read all authors
+2021-05-01 18:27:38 INFO  DBWithCollections:41 - Author created
+2021-05-01 18:27:48 INFO  DBWithCollections:63 - Read all authors
+2021-05-01 18:27:48 INFO  DBWithCollections:63 - Read all authors
+2021-05-01 18:27:51 INFO  DBWithCollections:34 - Book created
+2021-05-01 18:27:58 INFO  DBWithCollections:52 - Read author by id
+2021-05-01 18:27:58 INFO  DBWithCollections:52 - Read author by id
+2021-05-01 18:27:58 INFO  DBWithCollections:52 - Read author by id
+2021-05-01 18:27:58 INFO  DBWithCollections:52 - Read author by id
