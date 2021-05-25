@@ -14,7 +14,7 @@ import java.util.List;
 public class Dao {
     private static final String url = "jdbc:postgresql://localhost:5432/db_unit_10_jdbc";
     private static final String username = "postgres";
-    private static final String password = "1488";
+    private static final String password = "0000";
 
 
     @SneakyThrows
