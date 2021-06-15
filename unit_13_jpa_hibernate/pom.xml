@@ -11,11 +11,9 @@
     <packaging>jar</packaging>
 
     <properties>
-        <java.version>11</java.version>
-        <junit-jupiter.version>5.6.2</junit-jupiter.version>
+        <java.version>14</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <slf4j.version>1.7.26</slf4j.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
